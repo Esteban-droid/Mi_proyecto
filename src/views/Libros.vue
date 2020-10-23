@@ -6,7 +6,7 @@
     <table id="test-table">
       <thead>
       <tr>
-        <th>Número</th>
+        <th>Númeroo</th>
         <th>Nombre Libro</th>
         <th>Autor</th>
         <th>Año</th>

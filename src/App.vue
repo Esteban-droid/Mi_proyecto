@@ -2,7 +2,7 @@
   <div id="app">
     <div id="nav">
       <img alt="Vue logo" src="./assets/psicologia.png">
-      <!-- <router-link to="/">Home</router-link> | -->
+      <router-link to="/">Home</router-link> |
       <!-- <router-link to="/principal">Principal Page</router-link> -->
     </div>
     <router-view/>

@@ -1,7 +1,7 @@
 <template>
   <div id="principal-page">
     <br>
-    Bienvenido
+    Bienvenidoo
     <br><br>
   <header>
     <nav>

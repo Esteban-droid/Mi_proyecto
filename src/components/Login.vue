@@ -2,7 +2,7 @@
   <div id="login-component">
     <br />
     <form method="POST" action="#" v-on:submit.prevent="onFormSend">
-      <input type="email" placeholder="Email" v-model="email" />
+      <input type="email" placeholder="Emaill" v-model="email" />
       <br />
       <br />
       <input
